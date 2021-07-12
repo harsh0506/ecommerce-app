@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap');
+*{
+    padding:0;
+    margin:0;
+}
+.part_of_the_home{
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+.home_container{
+    width: 87vw;
+    height: 84vh;
+    background-image: linear-gradient(#BB927E, #B28B78,#A5816F,#A68270,#967565,#907161,#876A5B,#5E493F);
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    font-size: 20px;
+}
+.optiond{
+   height:4vh;
+   width:80vw;
+   padding: 1rem;
+   display: grid;
+   place-content: center;
+   grid-template-columns:auto auto auto auto;
+   column-gap: 5vw;
+}
+.optiond span{
+    height:4vh;
+    width: 4vw;
+}
+.optiond span img{
+    height:4vh;
+    width: 2vw;
+}
+.profileimg{
+    top: 5rem;
+    float: right;
+    height: 65vh;
+    position: absolute;
+    right: 14rem;
+}
+.profileimg img{
+    height: 75vh;
+    border-radius: 31px;
+    opacity: 66%;
+}
+.right{
+    width:40vw;
+    display: grid;
+   place-content: center;
+   height: 65vh;
+   position: absolute;
+   left: 12rem;
+}
+.myname{
+    width:40vw;
+    height:6vh;
+    font-size: 3.5rem;
+    color: #4A3B3E;
+    font-family: 'Rajdhani', sans-serif;
+}
+.slogan{
+    line-height: 5.6rem;
+    height:24vh;
+    width:40vw;
+    font-size:6rem;
+padding-top: 1.2rem;
+padding-bottom: 0.5rem;
+font-family: 'Rajdhani', sans-serif;
+color: #1B1C21;
+}
+.about_company{
+    width:40vw;
+    height:5vh;
+    font-size: 2rem;
+color: #080809;
+font-family: 'Rajdhani', sans-serif;
+}
+.button_on_home {
+height: 5vh;
+width:25vw;
+font-family: 'Rajdhani', sans-serif;
+padding: 1rem;
+font-size: 20px;
+}
+.shopp,.see{
+    width:10vw;
+    height:5vh;
+    background-color:#C5A18B;
+    border: none;
+    font-size: 25px;
+}

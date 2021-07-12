@@ -1,0 +1,62 @@
+[
+    {
+        "name":"blue shirt",
+        "price":"500",
+        "url":"https://www.europann.com/5473-thickbox_default/casual-cotton-voile-shirt-vardy-sky-blue.jpg"
+
+    },
+    {
+        "name":"black shirt",
+        "price":"550",
+        "url":"https://pyxis.nymag.com/v1/imgs/6bf/da1/69a1e642a504d322e3f63a8399cdc68839-9----.2x.rhorizontal.w600.jpg"
+
+    },
+    {
+        "name":"white shirt",
+        "price":"650",
+        "url":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F23%2F2020%2F05%2F04%2Flafayette-148-linen.jpg"
+
+    },
+    {
+        "name":"designer shirt",
+        "price":"800",
+        "url":"https://cdn.shopify.com/s/files/1/0537/5000/5960/products/BG358_2_grande.png?v=1616570791"
+
+    },
+    {
+        "name":"designer pant",
+        "price":"800",
+        "url":"https://cdn3.volusion.com/ba3tg.hs2vg/v/vspfiles/photos/designer-pants0209-2.jpg?v-cache=1607005076"
+
+    },
+    {
+        "name":"hoodie",
+        "price":"800",
+        "url":"https://cdn.shopify.com/s/files/1/0259/3835/products/BEACH_HOODIE_FLAT_GLACIER_450x.jpg?v=1571271891"
+
+    },
+    {
+        "name":"customise hoodie",
+        "price":"800",
+        "url":"https://i.pinimg.com/originals/8f/1b/1b/8f1b1b15d2f13df9c7233f8f521fdf94.jpg"
+
+    },
+    {
+        "name":"black jeans",
+        "price":"800",
+        "url":"https://allensolly.imgix.net/img/app/product/3/308921-1403694.jpg"
+
+    },
+    {
+        "name":"shoes",
+        "price":"800",
+        "url":"https://images-na.ssl-images-amazon.com/images/I/715QNKnDULL._UL1500_.jpg"
+
+    },
+    {
+        "name":"sneakers",
+        "price":"800",
+        "url":"https://media.gq.com/photos/5d93aa2c636d4800084025ae/16:9/pass/sneakers.jpg"
+
+    }
+]
